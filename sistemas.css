@@ -1,0 +1,53 @@
+body{
+	background-image: url(https://s3.eu-west-1.amazonaws.com/diariotijuana.info/wp-content/uploads/2020/03/08115523/20CF7F1F-25B8-4FB7-8E23-52E93114953F.jpeg);
+	background-size: 100%;
+}
+h1{
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 50px;
+	color: pink;
+	text-align: center;
+	word-spacing: .3cm;
+}
+hr{
+	width: 85%;
+	height: 15px;
+	border: solid;
+	border-color: purple;
+	background: purple;
+	border-radius: 2cm;
+}
+h2{
+	font-family: 'Caveat', cursive;
+	font-size: 35px;
+	color: blue;
+	text-align: center;
+	word-spacing: .3cm;
+
+}
+p{
+	font-family: 'Pacifico', cursive;
+	font-size: 20px;
+	color: purple;
+	text-align: left;
+	letter-spacing: .2cm;
+	width: 45%;
+	border-right-style: solid;
+	border-color: blue;
+	border-width: 10px;
+	background: orange;
+}
+dt{
+	font-family: 
+}
+dd{
+	list-style-type: 
+}
+.gif1{
+	position: relative;
+	left: 35%;
+}
+.png1{
+	position: relative;
+	left: 15%;
+}
